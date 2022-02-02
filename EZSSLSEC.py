@@ -1,5 +1,9 @@
 #!/bin/python3
 
+# TO-DO by prio
+# 1. TO-DO: If possible, make ssl check for login pages (port:443).
+# 2. TO-DO: If possible, make EZDNSSEC style presentation <and> <or> make our finding title type presentation.
+
 import re, argparse, subprocess, os
 from colorama import Fore, Style
 from pyfiglet import Figlet
