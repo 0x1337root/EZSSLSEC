@@ -1,5 +1,5 @@
 # EZSSLSEC
-**EZSSLSEC** is a SSL security checking tool. **testssl.sh** tool is running in the background.
+**EZSSLSEC** is a SSL security checking tool. **testssl.sh** tool is running in the background. (Special thanks to drwetter. You are amazing, God bless you man :D)
 * Checking SSL certificate expiration date and time
 * Checking SSL certificate CA (Certificate Authority)
 * Checking SSL certificate signature algorithms
