@@ -28,5 +28,5 @@
 # Usage
 To get a list of all options and learn how to use this app, enter the following command :<br>
 `./EZSSLSEC.py -h`<br><br>
-**General Usage :** `./EZDNSSEC.py <domain>`<br><br>
-**Example 1 :** `./EZDNSSEC.py example.com`<br>
+**General Usage :** `./EZSSLSEC.py <domain>`<br><br>
+**Example 1 :** `./EZSSLSEC.py example.com`<br>
