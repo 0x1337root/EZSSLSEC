@@ -18,6 +18,9 @@
 * Checking LOGJAM
 * Checking Freak
 * Checking Winshock 
+# TO-DO
+* SSL checks for login pages (port:443)
+* EZDNSSEC style presentation
 # Installation
 1. Clone the repository to your machine : `git clone https://github.com/0x1337root/EZSSLSEC.git`
 2. Go to the folder : `cd EZSSLSEC`
